@@ -2,5 +2,5 @@
 # Choose Figure
 This is a simple game. All you need is to choose a right figure. 
 You have 3 lives ❤️❤️❤️. 
-80+ levels. 
+Have 80+ levels. 
 Have fun.
